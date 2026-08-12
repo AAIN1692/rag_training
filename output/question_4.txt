@@ -1,0 +1,42 @@
+
+
+==================================================
+QUESTION 4 - CROSS-ENCODER RE-RANKING
+==================================================
+
+Initial FAISS candidates: 12
+
+RERANKED TOP 5 CHUNKS
+--------------------------------------------------
+1. Score: 2.1114 | Offshore Handbook | Page: 7
+   • Affine travel team will be responsible for obtaining the lowest fares and lodging expenses available. If he/ she need to stay at a hotel that is more expensive than the designated hotel, he/ she must have proper justification to do so before travel arrangements are booked. The same procedure appli...
+2. Score: 1.8383 | Onsite Handbook | Page: 8
+   • Affine travel team will be responsible for obtaining the lowest fares and lodging expenses available. If he/ she need to stay at a hotel that is more expensive than the designated hotel, he/she must have proper justification to do so before travel arrangements are booked. The same procedure applie...
+3. Score: 0.8160 | Onsite Handbook | Page: 50
+   General guidelines Original receipts are required for reimbursement of all expenses except for per diems. These expenses include: • Original boarding passes for airplane / train travel • Credit card receipts • Detailed merchant receipts • Monthly team outing expenses are capped at $50 per employee, ...
+4. Score: 0.3801 | Onsite Handbook | Page: 7
+   organization.  To respect the dignity of the individual and the freedom of employees to lawfully organize themselves into interest groups, independent of supervision by the management  To ensure that the employees are not discriminated against for exercising this freedom in a lawful manner and con...
+5. Score: -1.7171 | Offshore Handbook | Page: 6
+   Business Travel Guidelines (Effective from 1st January 2020): A business travel is a trip undertaken for work or business purposes. • In case, a candidate, or an employe travels to another location for the purpose of interview.
+
+ANSWER:
+--------
+Based on the provided employee handbooks, the rules for business travel reimbursements are as follows:
+
+**Per Diem**
+*   **Coverage:** Per diem is provided for food expenses, tips, and other incidental expenses. No bills or receipts need to be submitted for this claim (**Offshore Handbook, Page 7; Onsite Handbook, Page 8**).
+*   **Onsite Rates:** For onsite business travel, the per diem is $250 per day (for 24 hours) for Tier 1 cities and $200 per day (for 24 hours) for Tier 2 cities. This amount includes accommodation (**Onsite Handbook, Page 7**).
+
+**Accommodation and Airfare**
+*   **Booking:** The travel team is responsible for obtaining the lowest available fares and lodging expenses.
+*   **Approvals:** If an employee needs to stay at a hotel or book an airfare more expensive than the designated/lowest option, they must provide proper justification before booking.
+    *   In the **Offshore Handbook**, this requires approval from a **VP/SVP** (**Page 7**).
+    *   In the **Onsite Handbook**, this requires approval from the **Department Head** (**Page 8**).
+
+**General Reimbursement Rules**
+*   **Receipts:** Original receipts are required for all expenses except for per diems. This includes original boarding passes for airplane/train travel, credit card receipts, and detailed merchant receipts (**Onsite Handbook, Page 50**).
+*   **Documentation:** Receipts must be accompanied by a summary outlining:
+    *   The nature of the expense.
+    *   The name and titles of the individuals involved.
+    *   The purpose of the expenses (**Onsite Handbook, Page 50**).
+*   **Cancellations:** If there is a change in plan or a cancellation, the employee is responsible for keeping all parties informed (**Offshore Handbook, Page 7; Onsite Handbook, Page 8**).

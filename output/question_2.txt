@@ -1,0 +1,39 @@
+
+
+==================================================
+QUESTION 2 - GENERATED ANSWER QUERY EXPANSION
+==================================================
+
+--------------------------------------------------
+RETRIEVED CHUNKS
+--------------------------------------------------
+
+1. Onsite Handbook | Page 9
+   Resources Department. Prior written approval is required for exceptions to this policy, either in determining eligibility or extent of coverage. This prior written approval must be obtained from the Human Resources Department/ Vice President. Types of Relocation 1. New Employees joining Affine Analy...
+
+2. Offshore Handbook | Page 11
+   Within the US: An employee in the process of relocating within the US, can request for an advance pay upto $3500. Upon approval from Head of Delivery/Finance/HR, the employee would receive the advance in the US account upon joining Affine Inc. Terms: In case, an employee requires an advance pay, he ...
+
+3. Offshore Handbook | Page 7
+   Relocation Policy: Overview: This policy applies to candidates who are relocating for the purpose of employment at Affine Analytics and exempt employees who are required to relocate because they are being permanently transferred (for no less than 12 months) at the Company’s request to a location wit...
+
+4. Offshore Handbook | Page 10
+   accommodation upto 7 days from the date of arrival, travel tickets and shipment of goods. • Employees moving to the US from India operations are provided with relocation assistance. Relocation Administration: Travel Tickets - • Immigration Team to notify the VP/ Delivery Managers on the employees ap...
+
+5. Onsite Handbook | Page 12
+   The employee should leave the host country as communicated by Affine to avoid violating the immigration laws of the host country. Transfer to India Headquarters: Employees moving to India from the US are provided with relocation assistance. This Policy is applicable to folks who are offered a full-t...
+
+ANSWER:
+--------
+Based on the provided employee handbooks, the relocation benefits for employees moving from India to the US are as follows:
+
+**Allowances and Benefits**
+*   **Travel Tickets:** The Travel team books flight tickets for the employee. The process involves the Immigration Team notifying the VP/Delivery Managers of the approved visa (H-1B/L-1A/L-1B), who then notify the Travel team. Flight options must be approved by the VP before booking (Offshore Handbook, Page 10).
+*   **Accommodation:** The Travel team books hotel accommodation for 7 days from the date of arrival (Offshore Handbook, Page 10).
+*   **Shipment of Goods:** Relocation assistance includes the shipment of goods (Offshore Handbook, Page 10).
+
+**Approvals**
+*   **Eligibility:** Must be approved by the supervising manager, function head, and the Human Resources Department (Offshore Handbook, Page 7).
+*   **Travel Approval:** The VP must approve flight booking options before the Travel team completes the booking (Offshore Handbook, Page 10).
+*   **Accommodation Extensions:** Any stay extension beyond the initial 7 days must be approved by the VP (Offshore Handbook, Page 10).
+*   **Exceptions:** Any exceptions to the policy regarding eligibility or extent of coverage require prior written approval from the Human Resources Department or the Head of the Department (Offshore Handbook, Page 7).

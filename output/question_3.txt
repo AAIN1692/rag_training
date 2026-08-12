@@ -1,0 +1,38 @@
+
+
+==================================================
+QUESTION 3 - MULTI-QUERY EXPANSION
+==================================================
+
+GENERATED SUB-QUERIES:
+--------------------------
+1. relocation assistance repayment period and voluntary resignation policy
+2. clawback provisions for relocation expenses in employee contracts
+3. prorated relocation cost repayment schedule for early departure
+4. circumstances for waiving relocation expense reimbursement requirements
+
+--------------------------------------------------
+RETRIEVED CHUNKS
+--------------------------------------------------
+
+1. Offshore Handbook | Page 9
+   Note: Employees who have claimed relocation assistance and decide to voluntarily terminate their services from the company before completing 6 months are required to repay the relocation costs claimed.
+
+2. Onsite Handbook | Page 10
+   • Admin team to connect with the candidate and provide details of relocation assistance • Employees to submit all the expense related original bills within 2 weeks of joining along with the reimbursement form • The reimbursement form needs to be signed/ approved by the Manager/ EVP • The reimburseme...
+
+3. Offshore Handbook | Page 9
+   • The reimbursement amount will be paid out separately by the timelines set by the Finance team. This will not be a part of monthly salary payments. Note: In the event that an employee decides to voluntarily terminate their services with Affine within 6 months of relocating, the individual would be ...
+
+4. Offshore Handbook | Page 8
+   cases, no relocation assistance will be provided by the company and the employee has to solely bear the expenses. ** In case of any hotel extensions, the same needs to be approved by Function Head in writing. Travel and relocation to be executed along with travel & admin teams.
+
+5. Offshore Handbook | Page 7
+   travel. No bills /receipt need to be submitted for this claim. Procedure to claim reimbursements for internal travels and expenditures: • Fill in the Reimbursement claim form with all necessary details • Mention travel details /stay details in the form – this will help finance to cross verify with T...
+
+ANSWER:
+--------
+According to the provided handbooks, an employee must repay relocation costs under the following conditions:
+
+*   **Voluntary Termination:** If an employee decides to voluntarily terminate their services from the company before completing 6 months, they are required to repay the relocation costs claimed (Offshore Handbook, page 9; Onsite Handbook, page 10).
+*   **Timeframe:** Specifically, the repayment is required if the employee terminates their services with Affine within 6 months of relocating (Offshore Handbook, page 9).

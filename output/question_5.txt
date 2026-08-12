@@ -1,0 +1,48 @@
+
+
+==================================================
+QUESTION 5 - DENSE PASSAGE RETRIEVAL (DPR)
+==================================================
+
+--------------------------------------------------
+RETRIEVED CHUNKS
+--------------------------------------------------
+
+1. Onsite Handbook | Page 25
+    An employee cannot avail more than two Sick Leaves at a time. If this happens it will automatically fall into the category of Earned Leaves.  In case of Sick Leave amounting to more than 2 consecutive days, a doctor’s certificate of illness is mandatory.  Unused Sick Leaves will expire at theend...
+
+2. Offshore Handbook | Page 9
+   Note: Employees who have claimed relocation assistance and decide to voluntarily terminate their services from the company before completing 6 months are required to repay the relocation costs claimed.
+
+3. Offshore Handbook | Page 25
+   lapse. Menstrual Leave A menstrual leave policy provides paid time off for women employees during their menstrual cycle. Our goal is to promote employee well-being, productivity and an inclusive work environment. Managers and team members are encouraged to foster a supportive and understanding envir...
+
+4. Onsite Handbook | Page 25
+   declared holidays or weekends  The Comp off needs to be approved by Senior Engagement Manager/Senior Vice President, post which the HR team would credit the Comp off to the employee's leave account  The comp off has a validity of 3 months  In-case a Manager misses out approving the Comp-off withi...
+
+5. Offshore Handbook | Page 7
+   Relocation Policy: Overview: This policy applies to candidates who are relocating for the purpose of employment at Affine Analytics and exempt employees who are required to relocate because they are being permanently transferred (for no less than 12 months) at the Company’s request to a location wit...
+
+6. Onsite Handbook | Page 12
+   The employee should leave the host country as communicated by Affine to avoid violating the immigration laws of the host country. Transfer to India Headquarters: Employees moving to India from the US are provided with relocation assistance. This Policy is applicable to folks who are offered a full-t...
+
+7. Onsite Handbook | Page 12
+   Note: Request for advance pay is reviewed on case to case basis and is dependent on the discretion of the Management and HR. 4. Transferred Cases – Employees moving to India from the US are provided with relocation assistance. A) If under any visa related circumstances, the “Employment Authorization...
+
+8. Offshore Handbook | Page 17
+   • Employee will not be eligible for any allowance/ reimbursements / Earned Leave will not be paid/credited during the sabbatical leave. Terms and conditions • A sabbatical will not result in a break in employment. However, provisions dependent upon length of service i.e. annual leave, sick leave, an...
+
+9. Offshore Handbook | Page 28
+   or on the day of leave. Usage of Access Cards • Employees are advised to use the access cards as and when they access the doors. • The employee will be marked absent in case he/she has not flashed his access card while entering the office. • In case an employee forgets to bring the access card to of...
+
+10. Onsite Handbook | Page 29
+   Upon returning from long leave  Upon returning to work, Affine shall make every effort to reinstate the employee in his/her present position or in an equivalent or comparable position in the Company and at a salary that is not less than the employee’s last drawn salary prior to the leave
+
+ANSWER:
+--------
+According to the **Onsite Handbook** (Page 12), if an employee’s “Employment Authorization” becomes invalid or void due to any visa-related circumstances, the employee has two options:
+
+*   **Option 1:** Resign from Affine Inc. and receive a 3-weeks’ severance.
+*   **Option 2:** The employee will be terminated from Affine Inc. immediately upon notice and will be offered a full-time role at Affine Analytics Pvt. Ltd. (India Headquarters).
+
+Additionally, the employee must leave the host country as communicated by Affine to avoid violating immigration laws (Onsite Handbook, Page 12).

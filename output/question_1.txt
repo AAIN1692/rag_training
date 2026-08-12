@@ -1,0 +1,42 @@
+
+
+==================================================
+QUESTION 1 - NAIVE RAG
+==================================================
+
+--------------------------------------------------
+RETRIEVED CHUNKS
+--------------------------------------------------
+
+1. Offshore Handbook | Page 13
+   along with full and final settlement in upcoming month. • Cases wherein an employee’s last working day is between 1st to 15th of a month, then the previous month’s salary will be kept on hold. • Cases wherein an employee’s last working day is between 16th to 28th/ 30th/ 31st of a month, then the sam...
+
+2. Onsite Handbook | Page 18
+   manager and the HR department • The employee also needs to apply forthe resignation through ACIS • The acceptance of the resignation is followed by an exit interview taken bythe HR department • Employeesneed to serve 4 weeks of notice period before getting relieved of their duties, the same can be i...
+
+3. Onsite Handbook | Page 53
+   individual rating of the employee and the time spent during the Fiscal year Variable pay is management discretion and will be paid out as per the timelines decided by the company • In case an employee is servingthe notice period asof 31st March, he/ she will not be eligible for any variable payout *...
+
+4. Offshore Handbook | Page 12
+   • This will be reimbursed on actuals against bills/proofs which should be submitted to claim reimbursement mandatorily. D) Salary Eligibility and Per Diem: • The employee upon offer acceptance will be eligible to the salary as per the India offer, starting the day of employment at Affine. • In addit...
+
+5. Onsite Handbook | Page 18
+   notice of similar period of such resignation or payment in lieu thereof. If you desire to resign from your services hereunder, you shall, notwithstanding the provision with respect to payment in lieu of the notice as provided hereunder, make yourself available during all office hours, for such perio...
+
+ANSWER:
+--------
+Based on the provided context, the salary treatment for an employee who resigns depends on their last working day and the specific handbook:
+
+**Offshore Employees (Offshore Handbook, Page 13):**
+*   **Salary Holding:** 
+    *   If the last working day is between the **1st and 15th** of a month, the **previous month’s salary** will be kept on hold.
+    *   If the last working day is between the **16th and the end of the month** (28th/30th/31st), the **same month’s salary** will be kept on hold.
+*   **Immediate Release:** If an employee receives an immediate release, they will receive the same month’s salary along with their full and final settlement.
+*   **Payment Timing:** The held salary is paid along with the "full and final settlement in [the] upcoming month."
+
+**Onsite Employees (Onsite Handbook, Page 18):**
+*   **Immediate Release Payment:** If an employee needs to be relieved immediately (rather than serving the 4-week notice period), they are required to **pay 3 weeks of salary**.
+*   **Early Release Adjustment:** In the case of an early release requested by the employee, Earned Leave (EL) will be adjusted against the early days.
+
+**General Eligibility (Onsite Handbook, Page 53):**
+*   Employees serving their notice period as of March 31st are not eligible for any variable payout.
