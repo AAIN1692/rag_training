@@ -1,0 +1,45 @@
+
+
+==================================================
+QUESTION 10 - COMPLEX POLICY REASONING
+==================================================
+
+## GENERATED SUB-QUERIES:
+1. Grounds for disciplinary action and specific policy violations.
+2. Procedures for handling gross misconduct and compliance violations.
+3. Policies regarding absenteeism, unauthorized absence, and unresponsive employees.
+4. Scenarios that lead to involuntary termination or employment violations.
+5. Standard disciplinary protocols for repeated policy violations and behavioral issues.
+
+Unique candidates after retrieval: 17
+
+## RERANKED TOP 8:
+---------------------
+1. Score: 2.8022 | Onsite Handbook | Page: 22
+   possession of any drugs or alcohol during work hours or on Office premises, then it will lead to disciplinary action, up to and including termination of employment. It will be the responsibility and commitment of all staff members to ensure a safe and healthy workplace for all of us.
+2. Score: 1.8318 | Offshore Handbook | Page: 50
+   doubt/ complaint/ is not acknowledged at all, it is required to reach out to the CEO & Co Founder, Mr. Vineet Kumar. VII. VIOLATION OF THE POLICY AND CONSEQUENCES In terms of violation of this policy by an employee of the company, disciplinary actions will be subjected towards the employee. Violation of this policy by any client will result in dism...
+3. Score: 0.2465 | Onsite Handbook | Page: 60
+   2-3 working days, then it should be brought to the knowledge of the company's EVP. In situations where the concern/ doubt/ complaint/ is not acknowledged at all, it is required to reach out to the CEO & co founder. 11. Violation and the consequences 11.1. In terms of violation of this policy, disciplinary actions will be subjected towards the indiv...
+4. Score: -3.1686 | Offshore Handbook | Page: 54
+   practices by any employee. • We encourage disclosures by our employees of incidents that reveal violation of law, questionable business practices or grave misconduct by anyone within the organization. Some of the incidents could be, breach of the law, breach of Company’s policies/ code/ regulations/ guidelines which may result in financial loss or ...
+5. Score: -3.6950 | Offshore Handbook | Page: 21
+   • Where the victim has reasonable grounds to believe that his/her objection to such unwelcome behaviour would disadvantage him/her in connection with his/her work including recruitment/ employment or allotment of work, promotion or evaluation of his/her engagement in any Company activity • Where any such act(s) create an intimidating/hostile/offens...
+6. Score: -4.8284 | Onsite Handbook | Page: 60
+   practices or grave misconduct by employees, which could lead to financial loss or reputation risks to Affine.  To provide reassurance to the protection from reprisals, discrimination or victimization for whistle blowing in good faith.  This policy provides a legal mechanism for the reporting of illegal, unethical, and illegitimate practices by an...
+7. Score: -5.2752 | Offshore Handbook | Page: 21
+   • A situation in which an employee is confronted with sexual demands in return for something • The request can be explicit or implicit • The victim doesn’t need to be the target of the abuse
+8. Score: -6.4785 | Onsite Handbook | Page: 61
+    Company strictly prohibits any discrimination, retaliation or harassment against any person who reports incidents of questionable business practices or grave misconduct and who participates in an investigation of complaints about questionable business practices or grave misconduct.
+
+ANSWER:
+----------
+Based on the provided context, an employee may be terminated or face disciplinary action in the following scenarios:
+
+*   **Possession of Drugs or Alcohol:** Possession of any drugs or alcohol during work hours or on Office premises (Onsite Handbook, p. 22).
+*   **Policy Violations:** General violation of company policies (Offshore Handbook, p. 50; Onsite Handbook, p. 60).
+*   **Breach of Law or Regulations:** Breach of the law, or breach of the Company’s policies, code, regulations, or guidelines, particularly those that result in financial loss or reputation risk to Affine (Offshore Handbook, p. 54).
+*   **Grave Misconduct and Unethical Practices:** Engaging in grave misconduct, questionable business practices, or illegal, unethical, and illegitimate practices (Offshore Handbook, p. 54; Onsite Handbook, p. 60).
+*   **Retaliation or Harassment:** Engaging in discrimination, retaliation, or harassment against any person who reports questionable business practices or grave misconduct, or against those who participate in an investigation of such complaints (Onsite Handbook, p. 61).
+
+While the handbooks also define sexual harassment—including quid pro quo situations and the creation of an intimidating or hostile work environment (Offshore Handbook, p. 21)—the provided text explicitly links "disciplinary actions" and "termination" to the specific points listed above.
