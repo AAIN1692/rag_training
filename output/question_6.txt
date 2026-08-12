@@ -1,0 +1,42 @@
+
+
+==================================================
+QUESTION 6 - ADVANCED REASONING
+==================================================
+
+GENERATED SUB-QUERIES:
+-------------------------
+1. Relocation repayment agreement clawback period and terms
+2. International transfer benefits forfeiture and expense recovery policy
+3. U.S. visa sponsorship termination and immigration status implications
+4. Employee handbook policy on relocation cost reimbursement for early resignation
+
+Unique candidates after retrieval: 10
+
+RERANKED TOP 5 CHUNKS:
+-------------------------
+
+1. Score: 0.6939 | Offshore Handbook | Page: 9
+   • The reimbursement amount will be paid out separately by the timelines set by the Finance team. This will not be a part of monthly salary payments. Note: In the event that an employee decides to voluntarily terminate their services with Affine within 6 months of relocating, the individual would be ...
+
+2. Score: 0.5844 | Offshore Handbook | Page: 9
+   Note: Employees who have claimed relocation assistance and decide to voluntarily terminate their services from the company before completing 6 months are required to repay the relocation costs claimed.
+
+3. Score: -3.1537 | Onsite Handbook | Page: 10
+   • Admin team to connect with the candidate and provide details of relocation assistance • Employees to submit all the expense related original bills within 2 weeks of joining along with the reimbursement form • The reimbursement form needs to be signed/ approved by the Manager/ EVP • The reimburseme...
+
+4. Score: -7.4579 | Offshore Handbook | Page: 9
+   • Travel tickets. • Shipment of goods. ** In case of stay extension, the same needs to be approved by Department Head in writing. Process • Hiring team to take approvals from Sr. Manager/ VP/ HR. • Hiring team to communicate the date of joining to the Admin team. • Admin team to connect with the can...
+
+5. Score: -8.1598 | Onsite Handbook | Page: 13
+   occupations. This visa category applies to people who wish to perform services in a specialty occupation, services of exceptional merit. When an individual is relocated/transferred to the United States, they hold an immigrant status and all travel in and out of the country is governed by U.S. law an...
+
+ANSWER:
+----------
+Based on the provided employee handbooks, if an employee voluntarily terminates their services within 6 months of relocating (which includes a resignation at 5 months), the consequences are as follows:
+
+The employee is required to **repay the relocation costs claimed**.
+
+**Sources:**
+*   **Offshore Handbook, Page 9:** "In the event that an employee decides to voluntarily terminate their services with Affine within 6 months of relocating, the individual would be required to repay the relocation costs claimed."
+*   **Onsite Handbook, Page 10:** "Employees who have claimed relocation assistance and decide to voluntarily terminate their services from the company before completing 6 months are required to repay the relocation costs claimed."

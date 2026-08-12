@@ -1,0 +1,31 @@
+
+
+==================================================
+QUESTION 9 - EDGE CASE RETRIEVAL
+==================================================
+
+RERANKED TOP 5:
+------------------
+
+1. Score: 4.7815 | Offshore Handbook | Page: 13
+   company and deployed in the project at the time of payout and should not be on LOP, Sabbatical, Long Leave or Improvement Plan. Please note- • Salary will be withheld if you are not responsive to the team or HR for 3 consecutive working days. • It's the employees' responsibility to inform the company in case of any emergency failing which terminati...
+
+2. Score: -0.6704 | Onsite Handbook | Page: 56
+   compliance officer directly. If in case the concern/ doubt/ complaint is not acknowledged by the compliance officer within 2-3 working days, then it should be brought to the knowledge of the company's EVP. In situations where the concern/ doubt/ complaint/ is not acknowledged at all, it is required to reach out to the CEO & co founder, Mr. Manas Ag...
+
+3. Score: -1.9218 | Onsite Handbook | Page: 60
+   2-3 working days, then it should be brought to the knowledge of the company's EVP. In situations where the concern/ doubt/ complaint/ is not acknowledged at all, it is required to reach out to the CEO & co founder. 11. Violation and the consequences 11.1. In terms of violation of this policy, disciplinary actions will be subjected towards the indiv...
+
+4. Score: -3.6060 | Onsite Handbook | Page: 25
+    An employee cannot avail more than two Sick Leaves at a time. If this happens it will automatically fall into the category of Earned Leaves.  In case of Sick Leave amounting to more than 2 consecutive days, a doctor’s certificate of illness is mandatory.  Unused Sick Leaves will expire at theend of the financial year & cannot be accumulated/car...
+
+5. Score: -3.9826 | Onsite Handbook | Page: 24
+    If an employee is not able to use all accrued ELs in the year, then he/she can carry forward the unutilized ELs to the next financial year. However, the maximum number of such EL’s that can be carried forward is capped at 10 days.  In case the employee decides to part ways in the middle of a fiscal year, the maximum number of EL’s that can be en...
+
+ANSWER:
+----------
+According to the **Offshore Handbook (Page 13)**, if an employee is not responsive to the team or HR for 3 consecutive working days, the following actions are taken:
+
+*   **Salary Withholding:** Salary will be withheld.
+*   **Termination:** Termination can be done if the employee fails to inform the company in case of an emergency.
+*   **Asset Charges:** The employee will be held responsible for laptop charges and other asset charges.

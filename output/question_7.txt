@@ -1,0 +1,61 @@
+
+
+==================================================
+QUESTION 7 - CROSS-DOCUMENT REASONING
+==================================================
+
+Combined candidates: 8
+
+RERANKED TOP CHUNKS
+--------------------------------------------------
+
+1. Score: -2.3728 | Onsite Handbook | Page: 7
+   organization.  To respect the dignity of the individual and the freedom of employees to lawfully organize themselves into interest groups, independent of supervision by the management  To ensure that the employees are not discriminated against for exercising this freedom in a lawful manner and con...
+
+2. Score: -3.2123 | Offshore Handbook | Page: 6
+   Business Travel Guidelines (Effective from 1st January 2020): A business travel is a trip undertaken for work or business purposes. • In case, a candidate, or an employe travels to another location for the purpose of interview.
+
+3. Score: -9.2602 | Onsite Handbook | Page: 8
+   • Affine travel team will be responsible for obtaining the lowest fares and lodging expenses available. If he/ she need to stay at a hotel that is more expensive than the designated hotel, he/she must have proper justification to do so before travel arrangements are booked. The same procedure applie...
+
+4. Score: -9.2811 | Offshore Handbook | Page: 7
+   • Affine travel team will be responsible for obtaining the lowest fares and lodging expenses available. If he/ she need to stay at a hotel that is more expensive than the designated hotel, he/ she must have proper justification to do so before travel arrangements are booked. The same procedure appli...
+
+5. Score: -9.9590 | Offshore Handbook | Page: 8
+   cases, no relocation assistance will be provided by the company and the employee has to solely bear the expenses. ** In case of any hotel extensions, the same needs to be approved by Function Head in writing. Travel and relocation to be executed along with travel & admin teams.
+
+6. Score: -10.3565 | Onsite Handbook | Page: 10
+   for Singapore. Reimbursements will be based on actual expenses incurred. o Employees are entitled to 2 working days from the date of arrival to acclimate to the new country, this needs to be applied on GreytHR as "Day Out." o Hotel accommodation for 2 weeks from the date of arrival o Advance of $600...
+
+ANSWER:
+----------
+Based on the provided employee handbook context, here is the comparison of business travel policies:
+
+### 1. Onsite Policy
+*   **Per diem:** $250 per day (24 hours) for Tier 1 cities and $200 per day (24 hours) for Tier 2 cities. This amount includes accommodation and is provided for food, tips, and other incidental expenses.
+*   **Accommodation:** Included in the per diem rate. For specific travel (e.g., Singapore), hotel accommodation is provided for 2 weeks from the date of arrival.
+*   **Travel booking:** The Affine travel team is responsible for obtaining the lowest airfares and lodging expenses available.
+*   **Approval requirements:** If a hotel or airfare more expensive than the designated lowest fare is required, proper justification is needed and must be approved by the **Department Head** before booking. Stay extensions must be approved by the **EVP** in writing.
+*   **Reimbursement:** Follows the "Procedure to claim reimbursements for internal travels and expenditures." A $600 advance is provided as a security deposit for hotel accommodation in specific contexts (e.g., Singapore).
+*   **Expense/receipt requirements:** No bills or receipts need to be submitted for per diem claims.
+
+### 2. Offshore Policy
+*   **Per diem:** Not specified in the retrieved context (the specific dollar amount is missing). However, it is noted that per diem is provided for food, tips, and incidental expenses.
+*   **Accommodation:** The travel team is responsible for obtaining the lowest lodging expenses.
+*   **Travel booking:** The Affine travel team is responsible for obtaining the lowest airfares and lodging expenses available.
+*   **Approval requirements:** If a hotel or airfare more expensive than the designated lowest fare is required, proper justification is needed and must be approved by a **VP/SVP** before booking. Hotel extensions must be approved by the **Function Head** in writing.
+*   **Reimbursement:** Follows the "Procedure to claim reimbursements for internal travels and expenditures."
+*   **Expense/receipt requirements:** No bills or receipts need to be submitted for per diem claims.
+
+### 3. Key Differences
+*   **Per Diem Rates:** The Onsite Handbook specifies exact dollar amounts ($250/$200) and explicitly states it includes accommodation, whereas these details are not specified for the Offshore Handbook.
+*   **Booking Approvals:** For costs exceeding the lowest available fare, Onsite employees require **Department Head** approval, while Offshore employees require **VP/SVP** approval.
+*   **Extension Approvals:** Stay or hotel extensions for Onsite employees require **EVP** approval, whereas Offshore employees require **Function Head** approval.
+*   **Relocation/Arrival Specifics:** The Onsite Handbook contains specific details regarding travel to Singapore (2 weeks hotel, 2 days to acclimate, shipment of goods), which are not specified for Offshore travel.
+
+### 4. Common Points
+*   **Definition:** Both handbooks define business travel as a trip undertaken for work, business purposes, interviews, or knowledge transfer.
+*   **Booking Responsibility:** The Affine travel team is responsible for booking the lowest available fares and lodging for both groups.
+*   **Cost Justification:** Both policies require justification if an employee chooses a more expensive hotel or airfare than the one designated by the travel team.
+*   **Receipt Policy:** Both policies explicitly state that no bills or receipts are required to claim per diem.
+*   **Communication:** Both policies state it is the responsibility of the employee and the company to keep all parties informed in case of cancellations or changes in plans.

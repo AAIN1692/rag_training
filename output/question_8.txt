@@ -1,0 +1,34 @@
+
+
+==================================================
+QUESTION 8 - POLICY RULE EXTRACTION
+==================================================
+
+RERANKED TOP 5:
+------------------
+
+1. Score: 7.5336 | Offshore Handbook | Page: 12
+   period. They are not eligible to take up any leaves during the notice period. In case of an emergency, if the employee needs to take a leave then he / she will need to serve the number of days taken up as leaves. If the company chooses to terminate the employment contract without prior notice, then ...
+
+2. Score: 6.7615 | Offshore Handbook | Page: 12
+   • Employees need to serve 60 days of notice period before getting relieved of their duties, the same can be increased/ decreased at the discretion of the manager. • Employees are not eligible for any leaves while serving the notice period. • In case an employee needs to be relieved immediately, once...
+
+3. Score: 5.1482 | Onsite Handbook | Page: 18
+   manager and the HR department • The employee also needs to apply forthe resignation through ACIS • The acceptance of the resignation is followed by an exit interview taken bythe HR department • Employeesneed to serve 4 weeks of notice period before getting relieved of their duties, the same can be i...
+
+4. Score: 0.9848 | Onsite Handbook | Page: 31
+   the anticipated leaves  In case the employee wantsto extend the leave period, the companymaydecide to grant it, subject to approvalfrom Reporting Manager and HR. However, such leave willbe treated as“Leave without pay” Guidelines for Maternity / Paternity Leave Period  For leaveswith duration beyo...
+
+5. Score: 0.6876 | Onsite Handbook | Page: 18
+   notice of similar period of such resignation or payment in lieu thereof. If you desire to resign from your services hereunder, you shall, notwithstanding the provision with respect to payment in lieu of the notice as provided hereunder, make yourself available during all office hours, for such perio...
+
+ANSWER:
+----------
+Based on the provided employee handbooks:
+
+**Can employees take leave during the notice period?**
+No. Both handbooks state that employees are not eligible for any leaves while serving the notice period (Offshore Handbook, Page 12; Onsite Handbook, Page 18).
+
+**What happens if they take leave?**
+*   **Offshore Employees:** In the event of an emergency where an employee must take leave, they will be required to serve the number of days taken as leave (Source: Offshore Handbook, Page 12).
+*   **Onsite Employees:** While the handbook states employees are not eligible for leave, it specifies that if an early release is requested by the employee and granted at management's discretion, EL (Earned Leave) will be adjusted against the early days (Source: Onsite Handbook, Page 18).

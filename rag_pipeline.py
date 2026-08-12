@@ -1169,78 +1169,78 @@ if __name__ == "__main__":
     # Create Cross Encoder
     cross_encoder = create_cross_encoder()
 
-    # Create DPR encoders
-    (
-        question_tokenizer,
-        question_encoder,
-        context_tokenizer,
-        context_encoder
-    ) = create_dpr_encoders()
+    # # Create DPR encoders
+    # (
+    #     question_tokenizer,
+    #     question_encoder,
+    #     context_tokenizer,
+    #     context_encoder
+    # ) = create_dpr_encoders()
 
-    # Run each question and save output separately
+    # # Run each question and save output separately
 
-    with open(output_dir / "question_1.txt", "w", encoding="utf-8") as f:
-        with redirect_stdout(f):
-            run_question_1(vector_store, client)
+    # with open(output_dir / "question_1.txt", "w", encoding="utf-8") as f:
+    #     with redirect_stdout(f):
+    #         run_question_1(vector_store, client)
 
-    with open(output_dir / "question_2.txt", "w", encoding="utf-8") as f:
-        with redirect_stdout(f):
-            run_question_2(vector_store, client)
+    # with open(output_dir / "question_2.txt", "w", encoding="utf-8") as f:
+    #     with redirect_stdout(f):
+    #         run_question_2(vector_store, client)
 
-    with open(output_dir / "question_3.txt", "w", encoding="utf-8") as f:
-        with redirect_stdout(f):
-            run_question_3(vector_store, client)
+    # with open(output_dir / "question_3.txt", "w", encoding="utf-8") as f:
+    #     with redirect_stdout(f):
+    #         run_question_3(vector_store, client)
 
-    with open(output_dir / "question_4.txt", "w", encoding="utf-8") as f:
-        with redirect_stdout(f):
-            run_question_4(
-                vector_store,
-                client,
-                cross_encoder
-            )
+    # with open(output_dir / "question_4.txt", "w", encoding="utf-8") as f:
+    #     with redirect_stdout(f):
+    #         run_question_4(
+    #             vector_store,
+    #             client,
+    #             cross_encoder
+    #         )
 
-    with open(output_dir / "question_5.txt", "w", encoding="utf-8") as f:
-        with redirect_stdout(f):
-            run_question_5(
-                chunks,
-                client,
-                question_tokenizer,
-                question_encoder,
-                context_tokenizer,
-                context_encoder
-            )
+    # with open(output_dir / "question_5.txt", "w", encoding="utf-8") as f:
+    #     with redirect_stdout(f):
+    #         run_question_5(
+    #             chunks,
+    #             client,
+    #             question_tokenizer,
+    #             question_encoder,
+    #             context_tokenizer,
+    #             context_encoder
+    #         )
 
-    with open(output_dir / "question_6.txt", "w", encoding="utf-8") as f:
-        with redirect_stdout(f):
-            run_question_6(
-                vector_store,
-                client,
-                cross_encoder
-            )
+    # with open(output_dir / "question_6.txt", "w", encoding="utf-8") as f:
+    #     with redirect_stdout(f):
+    #         run_question_6(
+    #             vector_store,
+    #             client,
+    #             cross_encoder
+    #         )
 
-    with open(output_dir / "question_7.txt", "w", encoding="utf-8") as f:
-        with redirect_stdout(f):
-            run_question_7(
-                vector_store,
-                client,
-                cross_encoder
-            )
+    # with open(output_dir / "question_7.txt", "w", encoding="utf-8") as f:
+    #     with redirect_stdout(f):
+    #         run_question_7(
+    #             vector_store,
+    #             client,
+    #             cross_encoder
+    #         )
 
-    with open(output_dir / "question_8.txt", "w", encoding="utf-8") as f:
-        with redirect_stdout(f):
-            run_question_8(
-                vector_store,
-                client,
-                cross_encoder
-            )
+    # with open(output_dir / "question_8.txt", "w", encoding="utf-8") as f:
+    #     with redirect_stdout(f):
+    #         run_question_8(
+    #             vector_store,
+    #             client,
+    #             cross_encoder
+    #         )
 
-    with open(output_dir / "question_9.txt", "w", encoding="utf-8") as f:
-        with redirect_stdout(f):
-            run_question_9(
-                vector_store,
-                client,
-                cross_encoder
-            )
+    # with open(output_dir / "question_9.txt", "w", encoding="utf-8") as f:
+    #     with redirect_stdout(f):
+    #         run_question_9(
+    #             vector_store,
+    #             client,
+    #             cross_encoder
+    #         )
 
     with open(output_dir / "question_10.txt", "w", encoding="utf-8") as f:
         with redirect_stdout(f):
